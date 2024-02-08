@@ -32,5 +32,7 @@ public class Main {
         for (String str : arrayList2) {
             System.out.println(str);
         }
+
+        System.out.println();
     }
 }
